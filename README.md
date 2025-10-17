@@ -49,6 +49,66 @@ Si vous souhaitez ajouter des informations, corriger une erreur ou proposer un g
 
 ---
 
+## QCM – Examen de Connaissances Civiques 🇫🇷
+
+Ce dépôt contient un petit questionnaire à choix multiples (QCM) sur les **valeurs de la République** et les **institutions françaises**, dans l’esprit des tests de citoyenneté.
+
+---
+
+## 🧠 QCM – Questions de base
+
+**1️⃣ Quelle est la devise de la République française ?**  
+- [ ] Unité, Progrès, Patrie  
+- [x] Liberté, Égalité, Fraternité  
+- [ ] Justice, Ordre, Paix  
+- [ ] Force, Honneur, Nation  
+
+---
+
+**2️⃣ Quelle est la couleur du drapeau français de gauche à droite ?**  
+- [x] Bleu, Blanc, Rouge  
+- [ ] Rouge, Blanc, Bleu  
+- [ ] Blanc, Bleu, Rouge  
+- [ ] Bleu, Rouge, Blanc  
+
+---
+
+**3️⃣ Qui est élu au suffrage universel direct ?**  
+- [x] Le Président de la République  
+- [ ] Le Premier ministre  
+- [ ] Les Préfets  
+- [ ] Les Sénateurs  
+
+---
+
+**4️⃣ Quelle institution garantit la Constitution ?**  
+- [ ] Le Parlement  
+- [x] Le Conseil constitutionnel  
+- [ ] Le Conseil d’État  
+- [ ] Le Sénat  
+
+---
+
+**5️⃣ Que symbolise Marianne ?**  
+- [x] La République française  
+- [ ] La monarchie  
+- [ ] L’Union européenne  
+- [ ] L’armée  
+
+---
+
+## 📚 Ressources utiles
+
+Pour approfondir vos connaissances sur les démarches administratives et la citoyenneté française, consultez :  
+👉 [**Le blog Préfecture Rendez-Vous**](https://blog.prefecture-rendez-vous.fr/blog/) — articles, guides et conseils pratiques pour mieux comprendre la vie civique et les démarches en préfecture.
+
+---
+
+## 🧾 Licence
+
+Ce contenu est librement réutilisable à des fins éducatives (Licence MIT).
+
+
 ## 📄 Licence
 
 Ce projet est publié sous licence MIT.  
